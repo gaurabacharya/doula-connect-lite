@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+doulaenv/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore VSCode and system files
+.vscode/
+.DS_Store
+
+# Ignore Jupyter or notebook checkpoints (if relevant)
+.ipynb_checkpoints/
+
+# Ignore compiled binaries or test outputs
+*.so
+*.out
+*.log
+*.sqlite3
+
+# Ignore dotenv or secret config
+.env
