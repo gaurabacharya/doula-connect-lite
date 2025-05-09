@@ -14,7 +14,7 @@
   - **Frontend**: React + Next.js App Router
   - **Backend**: FastAPI with CSV-based mock data (no DB required)
   - **Live styling** with custom fonts (Poppins + Montserrat via `next/font`)
-- ⚡ **Instant development setup** via local APIs and monorepo structure
+- **Instant development setup** via local APIs and monorepo structure
 
 ---
 
@@ -56,6 +56,7 @@ The app will be live at http://localhost:3000
 It will query http://localhost:8000/doulas/ to populate the directory and booking dropdown.
 
 **Future Deployment**
+
 To deploy this project in production:
 
 ***Frontend***
