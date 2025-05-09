@@ -5,7 +5,7 @@
 ---
 ## Screenshots
 <img width="1422" alt="doula-homepage" src="https://github.com/user-attachments/assets/c4b77c26-8fb7-43e7-8a9a-e2eeff657025" />
-<img width="1371" alt="doula-find" src="https://github.com/user-attachments/assets/96f682e7-4c55-4e8c-87e6-0ec0b9af01c1" />
+<img width="1375" alt="doula-find-white-bg" src="https://github.com/user-attachments/assets/61543875-b01a-49f0-b640-380b8b73f161" />
 <img width="1434" alt="doula-book" src="https://github.com/user-attachments/assets/6dbc344b-9f90-497f-84a3-f4489d24caa0" />
 
 ## Features
