@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 13+, React, Tailwind CSS, TypeScript
 - **Backend**: FastAPI (Python), Pydantic, CSV for data mocking
@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 ### 1. Clone the repository
 
@@ -55,19 +55,19 @@ npm run dev
 The app will be live at http://localhost:3000
 It will query http://localhost:8000/doulas/ to populate the directory and booking dropdown.
 
-## Future Deployment
+**Future Deployment**
 To deploy this project in production:
 
-### Frontend
+***Frontend***
 - Host on Vercel, Netlify, or Render
 - Use NEXT_PUBLIC_API_URL env variable to point to backend
 
-### Backend
+***Backend***
 - Deploy FastAPI via Railway, Fly.io, or Render
 - Add a real database (PostgreSQL) instead of CSV for scalability
 - Optionally add authentication and doula availability scheduling
 
-### Stretch Ideas
+***Stretch Ideas***
 - Add Stripe or payment gateway for booking
 - Filter doulas by specialty or location
 - Integrate Mapbox/Leaflet for visual doula discovery
