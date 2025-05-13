@@ -3,6 +3,10 @@
 **DoulaConnect Lite** is a responsive, full-stack doula marketplace prototype built with **Next.js**, **FastAPI**, and **Tailwind CSS**. It enables users to explore trusted doulas, view profile information, and access a demo booking experience. This project demonstrates the technical design of a scalable, geo-aware care-matching platform for birth and postpartum support.
 
 ---
+## Architecture Diagram
+![doulaconnect-architecture](https://github.com/user-attachments/assets/71003a51-5ee5-47e4-a13d-9cd729ef8831)
+
+---
 ## Screenshots
 <img width="1422" alt="doula-homepage" src="https://github.com/user-attachments/assets/c4b77c26-8fb7-43e7-8a9a-e2eeff657025" />
 <img width="1375" alt="doula-find-white-bg" src="https://github.com/user-attachments/assets/61543875-b01a-49f0-b640-380b8b73f161" />
